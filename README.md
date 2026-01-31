@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm OnChainGio 👋
 
-<!--
-**onchaingio/onchaingio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### DeFi Researcher & On-chain Analyst
 
-Here are some ideas to get you started:
+I focus on dissecting DeFi protocols, analyzing on-chain data, and understanding protocol economics. Currently sharing my findings through deep dives and research papers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔍 Research Focus
+- **Protocol Analysis:** Deep dives into architecture and incentives.
+- **On-chain Data:** Tracking flows and liquidity movements.
+- **Risk Management:** Identifying vulnerabilities and systemic risks in DeFi.
+
+### ✍️ Writing
+I publish my full research reports here: 
+👉 [paragraph.xyz/@onchaingio](https://paragraph.xyz/@onchaingio)
+
+### 🌐 Connect with me
+- **X (Twitter):** [@OnChainGio](https://x.com/OnChainGio)
+- **Link3:** [link3.to/onchaingio](https://link3.to/onchaingio)
+
+---
+*"In code we trust, but on-chain we verify."*
